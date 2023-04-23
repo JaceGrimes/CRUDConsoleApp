@@ -1,0 +1,13 @@
+{
+  "ConnectionStrings": {
+    "MyDbContext": "Server=(localdb)\\MSSQLLocalDB;Database=CRUDConsoleAppDb;Trusted_Connection=True;MultipleActiveResultSets=true"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
